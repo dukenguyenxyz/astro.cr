@@ -1,0 +1,9 @@
+name: astro
+version: 0.1.0
+
+authors:
+  - Duke Nguyen <duke.raphael.ng@gmail.com>
+
+crystal: 0.35.1
+
+license: MIT
