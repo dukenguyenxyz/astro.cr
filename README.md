@@ -1,6 +1,6 @@
 # Astro
 
-Repository of Astronomical algorithms in Crystal
+Repository of astronomical algorithms in Crystal
 
 ## Installation
 
@@ -36,4 +36,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/dukeraphaelng) - creator and maintainer
+- [Duke Nguyen](https://github.com/dukeraphaelng) - creator and maintainer
