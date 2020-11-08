@@ -1,6 +1,6 @@
 # Astro
 
-TODO: Write a description here
+Repository of Astronomical algorithms in Crystal
 
 ## Installation
 
