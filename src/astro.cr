@@ -1,3 +1,5 @@
+require "./astro/**"
+
 # TODO: Write documentation for `Astro`
 module Astro
   VERSION = "0.1.0"
