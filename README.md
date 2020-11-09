@@ -27,10 +27,6 @@ Chapters from _Meeus, Jean (1998) Astronomical Algorithms, 2nd ed._
 - 9. Jewish and Moslem Calendars
 - 10. Dynamical Time and Universal Time
 
-## Development
-
-TODO: Write development instructions here
-
 ## Contributing
 
 1. Fork it (<https://github.com/dukeraphaelng/astro.cr/fork>)
