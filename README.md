@@ -20,7 +20,12 @@ Repository of astronomical algorithms in Crystal
 require "astro"
 ```
 
-TODO: Write usage instructions here
+Chapters from _Meeus, Jean (1998) Astronomical Algorithms, 2nd ed._
+
+- 7. Julian Day
+- 8. Date of Easter
+- 9. Jewish and Moslem Calendars
+- 10. Dynamical Time and Universal Time
 
 ## Development
 
